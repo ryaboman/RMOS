@@ -1,2 +1,0 @@
-# RMOS
-OS Creation Guide
